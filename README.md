@@ -1,0 +1,2 @@
+# django-test
+django 🤪🤪
